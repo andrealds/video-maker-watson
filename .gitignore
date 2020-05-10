@@ -106,4 +106,6 @@ dist
 credentials/*.json
 content.json
 content/*.png
+content/*.jpg
+package-lock.json
 .DS_Store
